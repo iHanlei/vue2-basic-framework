@@ -1,0 +1,10 @@
+/**
+ * 配置本地字体
+ */
+
+@font-face {
+  font-family: "demo";
+  src: url('../assets/font/demo.ttf');
+  font-weight: normal;
+  font-style: normal;
+} 
